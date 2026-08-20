@@ -1,0 +1,201 @@
+domain,year,keyword,count
+AI/ML,2016,,619
+AI/ML,2016,processing,93
+AI/ML,2016,neural,92
+AI/ML,2016,recognition method,84
+AI/ML,2016,image processing method,84
+AI/ML,2016,recognition method device,79
+AI/ML,2016,identification method based,70
+AI/ML,2016,detection method,66
+AI/ML,2016,neural network,65
+AI/ML,2016,identification method,61
+AI/ML,2016,detection method device,60
+AI/ML,2016,convolutional neural network,58
+AI/ML,2016,classification method based,53
+AI/ML,2016,recognition,52
+AI/ML,2016,information processing,50
+AI/ML,2016,image classification method,47
+AI/ML,2016,recognition method comprises,45
+AI/ML,2016,artificial neural network,45
+AI/ML,2016,fingerprint,45
+AI/ML,2016,identification method device,42
+AI/ML,2017,,849
+AI/ML,2017,recognition method,175
+AI/ML,2017,recognition method device,154
+AI/ML,2017,convolutional neural network,146
+AI/ML,2017,image processing method,135
+AI/ML,2017,detection method device,134
+AI/ML,2017,detection method,101
+AI/ML,2017,machine learning model,95
+AI/ML,2017,processing,93
+AI/ML,2017,identification method device,89
+AI/ML,2017,image processing,89
+AI/ML,2017,recognition method comprises,86
+AI/ML,2017,identification method,84
+AI/ML,2017,neural,81
+AI/ML,2017,identification method based,73
+AI/ML,2017,recognition method based,72
+AI/ML,2017,recognition,67
+AI/ML,2017,image classification method,64
+AI/ML,2017,neural network,63
+AI/ML,2017,pedestrian,60
+AI/ML,2018,,1221
+AI/ML,2018,recognition method device,386
+AI/ML,2018,image processing method,258
+AI/ML,2018,recognition method,245
+AI/ML,2018,detection method device,225
+AI/ML,2018,convolutional neural network,193
+AI/ML,2018,recognition method comprises,170
+AI/ML,2018,neural network,159
+AI/ML,2018,processing method device,140
+AI/ML,2018,processing,131
+AI/ML,2018,recognition method based,128
+AI/ML,2018,neural,126
+AI/ML,2018,detection method,125
+AI/ML,2018,machine learning model,122
+AI/ML,2018,processing method,120
+AI/ML,2018,identification method device,113
+AI/ML,2018,image processing,112
+AI/ML,2018,machine learning,108
+AI/ML,2018,recognition,108
+AI/ML,2018,neural network model,107
+AI/ML,2019,,1670
+AI/ML,2019,recognition method device,651
+AI/ML,2019,detection method device,427
+AI/ML,2019,image processing method,387
+AI/ML,2019,recognition method comprises,268
+AI/ML,2019,recognition method,258
+AI/ML,2019,convolutional neural network,244
+AI/ML,2019,processing method device,225
+AI/ML,2019,neural network,205
+AI/ML,2019,training method device,190
+AI/ML,2019,machine learning model,186
+AI/ML,2019,detection method,182
+AI/ML,2019,classification method device,181
+AI/ML,2019,processing,181
+AI/ML,2019,discloses face recognition,177
+AI/ML,2019,model training method,176
+AI/ML,2019,neural network model,168
+AI/ML,2019,deep learning method,156
+AI/ML,2019,detection method comprises,155
+AI/ML,2019,processing method,155
+AI/ML,2020,,1000
+AI/ML,2020,recognition method device,806
+AI/ML,2020,detection method device,583
+AI/ML,2020,image processing method,371
+AI/ML,2020,recognition method,311
+AI/ML,2020,training method device,298
+AI/ML,2020,prediction method device,251
+AI/ML,2020,processing method device,250
+AI/ML,2020,model training method,245
+AI/ML,2020,identification method device,206
+AI/ML,2020,convolutional neural network,197
+AI/ML,2020,detection method,192
+AI/ML,2020,recognition method comprises,189
+AI/ML,2020,machine learning model,188
+AI/ML,2020,deep learning method,182
+AI/ML,2020,neural network,172
+AI/ML,2020,training method,157
+AI/ML,2020,classification method device,153
+AI/ML,2020,data processing method,152
+AI/ML,2020,neural network model,150
+Computing/Software,2016,,1303
+Computing/Software,2016,electronic,188
+Computing/Software,2016,information processing,170
+Computing/Software,2016,processing,165
+Computing/Software,2016,information processing method,150
+Computing/Software,2016,information processing device,145
+Computing/Software,2016,device,115
+Computing/Software,2016,processing method,100
+Computing/Software,2016,computer implemented method,87
+Computing/Software,2016,processing device,83
+Computing/Software,2016,electronic device,79
+Computing/Software,2016,user interface,78
+Computing/Software,2016,control method,74
+Computing/Software,2016,natural language processing,68
+Computing/Software,2016,information,67
+Computing/Software,2016,data processing method,66
+Computing/Software,2016,device method,65
+Computing/Software,2016,computing device,65
+Computing/Software,2016,gesture,61
+Computing/Software,2016,mobile terminal,60
+Computing/Software,2017,,1342
+Computing/Software,2017,electronic,174
+Computing/Software,2017,information processing,174
+Computing/Software,2017,information processing method,161
+Computing/Software,2017,processing,152
+Computing/Software,2017,processing method,144
+Computing/Software,2017,information processing device,143
+Computing/Software,2017,computer implemented method,140
+Computing/Software,2017,data processing method,126
+Computing/Software,2017,processing method device,96
+Computing/Software,2017,user interface,91
+Computing/Software,2017,processing device,86
+Computing/Software,2017,device,82
+Computing/Software,2017,information processing apparatus,76
+Computing/Software,2017,natural language processing,76
+Computing/Software,2017,augmented reality,73
+Computing/Software,2017,computing device,73
+Computing/Software,2017,electronic device,73
+Computing/Software,2017,mobile terminal,72
+Computing/Software,2017,information,70
+Computing/Software,2018,,1161
+Computing/Software,2018,information processing,194
+Computing/Software,2018,processing,178
+Computing/Software,2018,information processing method,172
+Computing/Software,2018,processing method,168
+Computing/Software,2018,data processing method,164
+Computing/Software,2018,electronic,158
+Computing/Software,2018,information processing device,149
+Computing/Software,2018,processing method device,145
+Computing/Software,2018,computer implemented method,143
+Computing/Software,2018,processing device,111
+Computing/Software,2018,machine learning model,111
+Computing/Software,2018,electronic device,108
+Computing/Software,2018,user interface,101
+Computing/Software,2018,natural language processing,92
+Computing/Software,2018,generation method,91
+Computing/Software,2018,information,89
+Computing/Software,2018,machine learning,88
+Computing/Software,2018,recommendation method,88
+Computing/Software,2018,recommendation method device,86
+Computing/Software,2019,,1247
+Computing/Software,2019,data processing method,288
+Computing/Software,2019,processing method device,255
+Computing/Software,2019,electronic,200
+Computing/Software,2019,processing method,193
+Computing/Software,2019,information processing,187
+Computing/Software,2019,information processing method,184
+Computing/Software,2019,processing,175
+Computing/Software,2019,recommendation method device,174
+Computing/Software,2019,classification method device,155
+Computing/Software,2019,computer implemented method,144
+Computing/Software,2019,natural language processing,138
+Computing/Software,2019,recognition method device,128
+Computing/Software,2019,generation method device,127
+Computing/Software,2019,machine learning model,127
+Computing/Software,2019,recommendation method,123
+Computing/Software,2019,retrieval method device,118
+Computing/Software,2019,device,115
+Computing/Software,2019,generation method,113
+Computing/Software,2019,processing device,112
+Computing/Software,2020,,971
+Computing/Software,2020,data processing method,324
+Computing/Software,2020,processing method device,323
+Computing/Software,2020,recognition method device,238
+Computing/Software,2020,recommendation method device,237
+Computing/Software,2020,generation method device,191
+Computing/Software,2020,information processing method,190
+Computing/Software,2020,natural language processing,187
+Computing/Software,2020,processing method,168
+Computing/Software,2020,electronic,165
+Computing/Software,2020,recommendation method,161
+Computing/Software,2020,classification method device,147
+Computing/Software,2020,machine learning model,140
+Computing/Software,2020,generation method,139
+Computing/Software,2020,prediction method device,139
+Computing/Software,2020,data processing,132
+Computing/Software,2020,training method device,127
+Computing/Software,2020,information processing device,127
+Computing/Software,2020,processing,124
+Computing/Software,2020,information processing,110
