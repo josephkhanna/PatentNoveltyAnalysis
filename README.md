@@ -24,7 +24,7 @@ This patent novelty analysis is a data pipeline that examines innovation trends 
 * Run `python/build_domains.py` to classify each patent into a technology domain based on its primary IPC code
 * Run `r/analysis.R` in RStudio to compute novelty trends by domain and generate visualizations
 * Run `python/keyword_analysis.py` to extract top keyword themes for the fastest-growing domains
-* Review outputs in the `output/` folder, including trend charts, summary tables, and the executive summary
+* Review outputs in the `output/` folder, including trend charts and summary tables
 
 ## Key Findings
 * Computing/Software and AI/ML were the two largest and fastest-growing domains by novelty score (+0.041 and +0.037 per year respectively), together representing nearly 45% of all patents analyzed.
